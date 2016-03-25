@@ -1,0 +1,97 @@
+/* line 1, ../sass/style2.scss */
+.contenaire {
+  width: 620px;
+  margin: auto;
+  font-family: "Times New Roman", Georgia, Serif;
+  font-size: 14px;
+  color: rgba(0, 0, 0, 0.5);
+}
+
+/* line 9, ../sass/style2.scss */
+section h2 {
+  font-style: italic;
+  font-size: 14px;
+}
+
+/* line 14, ../sass/style2.scss */
+a {
+  text-decoration: none;
+  color: rgba(0, 0, 0, 0.5);
+}
+
+/* line 18, ../sass/style2.scss */
+h4 a, h3 a {
+  color: black;
+}
+
+/* line 21, ../sass/style2.scss */
+section div h3 a:hover {
+  color: #ffcc00;
+}
+
+/* line 25, ../sass/style2.scss */
+section div span a:hover {
+  color: black;
+}
+
+/* line 28, ../sass/style2.scss */
+ul li h4 a:hover {
+  color: #ffcc00;
+}
+
+/* line 31, ../sass/style2.scss */
+ul li p a:hover {
+  color: black;
+}
+
+/* line 34, ../sass/style2.scss */
+select div p a {
+  padding-bottom: 10px;
+}
+
+/* line 37, ../sass/style2.scss */
+ul {
+  list-style: none;
+  padding: 0px;
+  width: 300px;
+}
+
+/* line 42, ../sass/style2.scss */
+a img {
+  padding: 3px;
+  border-width: 1px;
+  border-style: solid;
+  border-color: rgba(0, 0, 0, 0.5);
+}
+
+/* line 48, ../sass/style2.scss */
+ul li img {
+  padding: 2px;
+  border-width: 1px;
+  border-style: solid;
+  border-color: rgba(0, 0, 0, 0.5);
+}
+
+/* line 54, ../sass/style2.scss */
+.float-small_feature {
+  float: left;
+  margin-right: 20px;
+}
+
+/* line 58, ../sass/style2.scss */
+.bloc-small-feature {
+  border-bottom: 1px solid #d9d9d9;
+}
+
+/* line 61, ../sass/style2.scss */
+.bloc1 {
+  float: left;
+  width: 300px;
+  padding-right: 10px;
+}
+
+/* line 66, ../sass/style2.scss */
+.bloc2 {
+  float: right;
+  width: 300px;
+}
